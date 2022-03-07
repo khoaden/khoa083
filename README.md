@@ -35,9 +35,5 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 [<img height="35" src="https://github.com/khoa083/khoa/blob/d07a36db13ce9fbd9a897bf9b60cfef5b1860260/Khoa_ne/img/1/github_dark.png" />](#gh-dark-mode-only)
 [<img height="35" src="https://github.com/khoa083/khoa/blob/d07a36db13ce9fbd9a897bf9b60cfef5b1860260/Khoa_ne/img/1/github_light.png" />](#gh-light-mode-only)
 
-📈 my github stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khoa083&show_icons=true&locale=en" alt="khoa083" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=khoa083&" alt="khoa083" /></p>
 
 ![snake gif](https://github.com/khoa083/khoa083/blob/output/github-contribution-grid-snake.svg)
