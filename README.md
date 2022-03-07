@@ -22,4 +22,4 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 
 - 💼 any freelance work? do reach, [email](mailto:minhkhoa065@gmail.com) 
 
-![snake gif](https://github.com/khoa083/khoa083/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/khoa083/khoa083/blob/output/github-contribution-grid-snake.svg)
