@@ -38,7 +38,7 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 
 - 💼 any freelance work? do reach, [email](mailto:minhkhoa065@gmail.com) 
 
-**languages and tools:**
+<h3><b><i>🔥 Languages and tools:</i></b></h3>
 
 [<img height="35" src="https://github.com/khoa083/khoa/blob/d07a36db13ce9fbd9a897bf9b60cfef5b1860260/Khoa_ne/img/1/c++_dark.png" />](#gh-dark-mode-only)
 [<img height="35" src="https://github.com/khoa083/khoa/blob/d07a36db13ce9fbd9a897bf9b60cfef5b1860260/Khoa_ne/img/1/c++_light.png" />](#gh-light-mode-only)
