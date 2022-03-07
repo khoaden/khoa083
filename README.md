@@ -40,6 +40,10 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 
 <h3><b><i>🔥 Languages and tools:</i></b></h3>
 
+[<img height="35" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/terminal-dark.svg" />](#gh-dark-mode-only)
+[<img height="35" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/terminal-light.svg" />](#gh-light-mode-only)
+[<img height="35" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/vstudio_dark.png" />](#gh-dark-mode-only)
+[<img height="35" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/vstudio_light.png" />](#gh-light-mode-only)
 [<img height="35" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/c++_dark.png" />](#gh-dark-mode-only)
 [<img height="35" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/c++_light.png" />](#gh-light-mode-only)
 [<img height="35" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/csharp_dark.png" />](#gh-dark-mode-only)
