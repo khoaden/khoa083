@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/htr-tech">
+<p align="right"><a href="https://github.com/htr-tech">
 <img align="left" height="165" src="https://github-readme-stats.vercel.app/api?username=khoa083&show_icons=true&locale=en" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/khoa083"><img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=khoa083&" />
