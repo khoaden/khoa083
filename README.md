@@ -1,5 +1,5 @@
 <p align="right"><a href="https://github.com/khoa083">
-<img align="left" height="165" src="https://github-readme-stats.vercel.app/api?username=khoa083&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true&locale=en" /></a>
+<img align="left" height="165" src="https://github-readme-stats.vercel.app/api?username=khoa083&show_icons=true&locale=en" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/khoa083"><img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=khoa083&" />
 </a></p>
