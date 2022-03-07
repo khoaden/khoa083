@@ -20,3 +20,5 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 [<img align="right" alt="GIF" src="https://github.com/khoa083/khoa/blob/db503de447431d52ae7ca55f606550d112359191/backend.gif?raw=true" width="500" height="320" />](#gh-dark-mode-only)
 [<img align="right" alt="GIF" src="https://github.com/khoa083/khoa/blob/acd454cf34f28d377116b48ae9f32c49c4117ca2/Khoa_ne/img/2/backend_light.gif?raw=true" width="500" height="320" />](#gh-light-mode-only)
 
+- 💼 any freelance work? do reach, [email](mailto:minhkhoa065@gmail.com) 
+
