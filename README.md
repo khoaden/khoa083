@@ -20,7 +20,17 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 [<img align="right" alt="GIF" src="https://github.com/khoa083/khoa/blob/db503de447431d52ae7ca55f606550d112359191/backend.gif?raw=true" width="500" height="320" />](#gh-dark-mode-only)
 [<img align="right" alt="GIF" src="https://github.com/khoa083/khoa/blob/acd454cf34f28d377116b48ae9f32c49c4117ca2/Khoa_ne/img/2/backend_light.gif?raw=true" width="500" height="320" />](#gh-light-mode-only)
 
-- 💼 any freelance work? do reach, [email](mailto:minhkhoa065@gmail.com) 
+<b><i>💻 I'm a Student & A part time Programmer</i></b>
+
+<h3><b><i>🤠 About me :</i></b></h3>
+<li> 🇧🇩 <i>Resident of Bangladesh</i></li>
+<li> 😇 <i>Muslim</i></li>
+<li> 😐 <i>Studying at Kindergarten</i></li>
+<li> 😪 <i>Love Sleeping</i></li>
+<li> 💔 <i>Born Single</i></li>
+<li> 🐍 <i>Trying to learn Python & SQLI</i></li>
+<li> 🤐 <i>Aim : Become a Software Engineer</i></li>
+<li> 💼 any freelance work? do reach, [email](mailto:minhkhoa065@gmail.com) 
 
 **languages and tools:**
 
