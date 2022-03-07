@@ -17,3 +17,5 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=khoa083.khoa)
 <br/>
 Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, looking forward to your help  😁😁😁. 
+
+<img align="right" alt="GIF" src="https://github.com/khoa083/khoa/blob/db503de447431d52ae7ca55f606550d112359191/backend.gif?raw=true" width="500" height="320" />
