@@ -23,14 +23,15 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
 <h3><b><i>🤠 About me :</i></b></h3>
-<li> 🇧🇩 <i>Resident of Bangladesh</i></li>
-<li> 😇 <i>Muslim</i></li>
-<li> 😐 <i>Studying at Kindergarten</i></li>
-<li> 😪 <i>Love Sleeping</i></li>
-<li> 💔 <i>Born Single</i></li>
-<li> 🐍 <i>Trying to learn Python & SQLI</i></li>
-<li> 🤐 <i>Aim : Become a Software Engineer</i></li>
-<li> 💼 any freelance work? do reach, [email](mailto:minhkhoa065@gmail.com) 
+<li> 🇧🇩 <i>Resident of VietNam</i></li>
+<li>  😇 <i>Muslim</i></li>
+<li>  😐 <i>Studying at VietNam</i></li>
+<li>  😪 <i>Love Sleeping</i></li>
+<li>  💔 <i>Born Single</i></li>
+<li>  🐍 <i>Trying to learn PHP & SQLI</i></li>
+<li>  🤐 <i>Aim : Become a Software Engineer</i></li>
+
+- 💼 any freelance work? do reach, [email](mailto:minhkhoa065@gmail.com) 
 
 **languages and tools:**
 
