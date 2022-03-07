@@ -51,6 +51,9 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 [<img height="35" src="https://github.com/khoa083/khoa/blob/d07a36db13ce9fbd9a897bf9b60cfef5b1860260/Khoa_ne/img/1/github_dark.png" />](#gh-dark-mode-only)
 [<img height="35" src="https://github.com/khoa083/khoa/blob/d07a36db13ce9fbd9a897bf9b60cfef5b1860260/Khoa_ne/img/1/github_light.png" />](#gh-light-mode-only)
 
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=khoa083)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
 [![trophy](https://github-profile-trophy.vercel.app/?username=khoa083&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
 
