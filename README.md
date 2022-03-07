@@ -1,3 +1,9 @@
+<p align="center"><a href="https://github.com/htr-tech">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=khoa083_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/htr-tech"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoa083&layout=compact&theme=react&hide_border=true" />
+</a></p>
+
 # Hi there, I'm Minh Khoa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [<img align="left" alt="linkedin" width="35px" src="https://github.com/khoa083/khoa/blob/b86973a175fdc93d330b43c3a65bd6ac09304de7/Khoa_ne/img/2/linkedin.gif?raw=true" />](https://www.linkedin.com/in/khoa-minh-8b9a2b183/#gh-dark-mode-only)
 [<img align="left" alt="linkedin" width="35px" src="https://github.com/khoa083/khoa/blob/acd454cf34f28d377116b48ae9f32c49c4117ca2/Khoa_ne/img/2/linkedin_light.gif?raw=true" />](https://www.linkedin.com/in/khoa-minh-8b9a2b183/#gh-light-mode-only)
